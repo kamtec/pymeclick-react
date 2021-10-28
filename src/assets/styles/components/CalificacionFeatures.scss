@@ -1,0 +1,19 @@
+.calificacion_datos {
+    display:flex;
+    justify-content: center;
+    border-radius: 5px;
+    overflow: hidden;
+  }
+
+  .calificacion__desc_comp {
+    width: 350px;
+    height: 250px;
+    padding: 0 35px;
+    background-color: #4169E1;
+  }
+
+  .calificacion__font_comp {
+    color: #FFFFFF;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 15px; 
+  }
